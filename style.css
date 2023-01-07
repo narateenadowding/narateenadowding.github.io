@@ -8,4 +8,6 @@ body {
 .centered {
   margin: auto; 
   width: 50%;
+  boarder: 3px solid #49fb35;
+  padding: 10px
 }
