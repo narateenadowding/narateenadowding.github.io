@@ -11,3 +11,7 @@ body {
   boarder: 3px solid #49fb35;
   padding: 10px
 }
+
+.hr {
+  boarder: 1px solid #49fb35;
+}
