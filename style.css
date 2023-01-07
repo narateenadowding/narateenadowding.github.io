@@ -4,14 +4,3 @@ body {
   text-align: center;
   font-family: monospace;
 }
-
-footer {
-  background: #49fb35;
-  color: black; 
-  font-family: monospace;
-}
-
-hr {
-  boarder: 10px solid #49fb35; 
-  boarder-radius: 5px; 
-}
