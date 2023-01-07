@@ -4,3 +4,10 @@ body {
   text-align: center;
   font-family: monospace;
 }
+
+footer {
+  background: #49fb35;
+  color: black; 
+  text-align: center;
+  font-family: monospace;
+}
