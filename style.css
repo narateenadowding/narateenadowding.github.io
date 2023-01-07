@@ -4,14 +4,3 @@ body {
   text-align: left;
   font-family: monospace;
 }
-
-.centered {
-  margin: auto; 
-  width: 50%;
-  boarder: 3px solid #49fb35;
-  padding: 10px
-}
-
-.hr {
-  boarder: 1px solid #49fb35;
-}
