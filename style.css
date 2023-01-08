@@ -3,7 +3,7 @@
 body {
   background: black; 
   color: #49fb35; 
-  text-align: center;
+  text-align: left;
   font-family: monospace;
   margin: 100px;
 }
@@ -19,4 +19,5 @@ body {
 
 .float-left {
   float: left;
+  width: 400px;
 }
