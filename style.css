@@ -1,11 +1,21 @@
-hr {
-  border: 10px solid green;
-  border-radius: 5px;
-}
+
 
 body {
   background: black; 
   color: #49fb35; 
   text-align: left;
   font-family: monospace;
+}
+
+hr {
+  border: 10px solid green;
+  border-radius: 5px;
+}
+
+.float-right {
+  float: right; 
+}
+
+.float-left {
+  float: left;
 }
