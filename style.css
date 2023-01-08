@@ -15,8 +15,10 @@ body {
 
 .float-right {
   float: right; 
+  width: 200px;
 }
 
 .float-left {
   float: left;
+  width: 200px;
 }
