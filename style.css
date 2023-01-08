@@ -3,10 +3,9 @@
 body {
   background: black; 
   color: #49fb35; 
-  text-align: left;
+  text-align: center;
   font-family: monospace;
   margin: 100px;
-  justify-content: center;
 }
 
 .green {
