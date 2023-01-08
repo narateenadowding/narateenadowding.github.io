@@ -8,6 +8,11 @@ body {
   margin: 100px;
 }
 
+img {
+  boarder-radius: 8px;
+  width: 200px;
+}
+
 .green {
   border: 5px solid #49fb35;
   border-radius: 5px;
