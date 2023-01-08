@@ -9,6 +9,10 @@ body {
   width: 600px;
 }
 
+h1 {
+  font-size: 40px;
+}
+
 .green {
   border: 5px solid #49fb35;
   border-radius: 5px;
