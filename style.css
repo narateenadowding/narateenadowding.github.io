@@ -5,9 +5,7 @@ body {
   color: #49fb35; 
   text-align: left;
   font-family: monospace;
-  margin-left: 50%;
-  margin-right: 50%;
-  margin-top: 50px;
+  margin: auto; 
   width: 600px;
 }
 
