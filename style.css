@@ -8,7 +8,7 @@ body {
   margin: 100px;
 }
 
-img {
+.img {
   boarder-radius: 8px;
   width: 200px;
 }
