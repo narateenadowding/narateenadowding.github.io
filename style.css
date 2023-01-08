@@ -6,6 +6,7 @@ body {
   text-align: left;
   font-family: monospace;
   margin: 100px;
+  justify-content: center;
 }
 
 .green {
@@ -15,10 +16,8 @@ body {
 
 .float-right {
   float: right; 
-  width: 400px;
 }
 
 .float-left {
   float: left;
-  width: 300px;
 }
