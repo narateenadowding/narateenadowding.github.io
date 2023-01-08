@@ -9,6 +9,13 @@ body {
   width: 600px;
 }
 
+a:link {
+  color: #49fb35;
+}
+
+a:visited {
+  color: white;
+}
 
 .green {
   border: 5px solid #49fb35;
