@@ -5,9 +5,10 @@ body {
   color: #49fb35; 
   text-align: left;
   font-family: monospace;
+  margin: 100px;
 }
 
-hr {
+.green {
   border: 10px solid green;
   border-radius: 5px;
 }
