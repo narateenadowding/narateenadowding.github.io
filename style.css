@@ -9,6 +9,10 @@ body {
   width: 600px;
 }
 
+img {
+  width: 590px;
+}
+
 a:link {
   color: #49fb35;
 }
