@@ -9,8 +9,14 @@ body {
   width: 600px;
 }
 
+h1 {
+  font-size: 40px;
+}
+
 img {
   width: 590px;
+  height: 500px; 
+  padding: 10px;
 }
 
 a:link {
